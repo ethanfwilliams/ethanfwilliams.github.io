@@ -22,17 +22,27 @@
 
 <h4>Review Papers:</h4>
 <ol reversed>
+<li style="margin-bottom: 10px;">Fernandez-Ruiz, M.R., H.F. Martins, <b>E.F. Williams</b>, C. Becerril, R. Magalhaes, L.D. Costa, S. Martin-Lopez, S. Jia, Z. Zhan, and M. Gonzalez-Herraez (2022) <a href="https://doi.org/10.1109/JLT.2021.3128138">Seismic monitoring with distributed acoustic sensing from the near-surface to the deep oceans.</a> <i>Journal of Lightwave Technology</i> 40 (5), pp. 1453-1463. </li>
 <li style="margin-bottom: 10px;">Fernandez-Ruiz, M.R., M.A. Soto, <b>E.F. Williams</b>, S. Martin-Lopez, Z. Zhan, M. Gonzalez-Herraez, and H.F. Martins (2020) <a href="https://doi.org/10.1063/1.5139602">Distributed acoustic sensing for seismic activity monitoring.</a> <i>APL Photonics</i> 5 (3), 030901.</li>
 </ol>
 
-<h4>Non-refereed Publications:</h4>
+<h4>Other Publications:</h4>
 <ol reversed>
+<li><b>Williams, E.F.</b> (2022) Listening to the seafloor through optical fibers. <i>Physics Today</i>, in press.</li>
 <li><b>Williams, E.F.</b> and E.R. Martin (2016) Detection and removal of coherent anthropogenic noise from passive seismic data. <i>SEP Report</i> 165, pp. 153-164.</li>
 </ol>
 
 <h4>Talks and Posters:</h4>
 <ol reversed>
-<li style="margin-bottom: 10px;"><b>Williams, E.F.</b>, H.F. Martins, M.R. Fernandez-Ruiz, Z. Shen, S. Martin-Lopez, M. Gonzalez-Herraez, and Z. Zhan (2020) Ocean surface gravity wave interferometry with seafloor DAS. <i> Poster, AGU Fall Meeting, Decemmber 2020.</i></li>
+<li style="margin-bottom: 10px;"><i>(Invited)</i> <b>Williams, E.F.</b>, T.H. Heaton, Z. Zhan, and V. Lambert (2022) Continuous seismic monitoring of a building over 20 years. <i> Talk, SSA Annual Meeting, April 2022.</i></li>
+<li style="margin-bottom: 10px;"><i>(Invited)</i> <b>Williams, E.F.</b> and Z. Zhan (2022) Understanding and exploiting ocean waves in DAS data. <i>Talk, SSA Annual Meeting, April 2022.</i></li>
+<li style="margin-bottom: 10px;">Biondi, E., W. Zhu, <b>E.F. Williams</b>, J. Li, and Z. Zhan (2022) High-resolution eikonal traveltime tomography of the Long Valley Caldera using distributed acoustic sensing. <i>Talk, SSA Annual Meeting, April 2022.</i></li>
+<li style="margin-bottom: 10px;">Fang, J., Y. Yang, Z. Shen, E. Biondi, X. Wang, <b>E.F. Williams</b>, M. Becker, D. Eslamian, and Z. Zhan (2022) Directional sensitivity of DAS and its effect on Rayleigh wave tomography. <i> Poster, SSA Annual Meeting, April 2022.</i></li>
+<li style="margin-bottom: 10px;">Li, J., Z. Zhan, E. Biondi, and <b>E.F. Williams</b> (2022) Back-projection imaging of the 2021 Antelope Valley M6.0 earthquake using distributed acoustic sensing. <i>Talk, SSA Annual Meeting, April 2022.</i></li>
+<li style="margin-bottom: 10px;">Yang, Y., J. Atterholt, Z. Shen, J.B. Muir, <b>E.F. Williams</b>, and Z. Zhan (2021) Urban seismic hazard mapping with distributed acoustic sensing. <i>Poster, AGU Fall Meeting, December 2021.</i> </li>
+<li style="margin-bottom: 10px;">Fang, J., Y. Yang, Z. Shen, E. Biondi, X. Wang, <b>E.F. Williams</b>, M. Becker, D. Eslamian, and Z. Zhan (2021) Imaging the shallow subsurface underneath the City of Oxnard with telecom cables. <i>Talk, AGU Fall Meeting, December 2021.</i></li>
+<li style="margin-bottom: 10px;">Shen, Z., Z. Zhan, Y. Yang, and <b>E.F. Williams</b> (2021) High-resolution seismic velocity response to subsurface hydrology with distributed acoustic sensing. <i>Talk, AGU Fall Meeting, December 2021.</i></li>
+<li style="margin-bottom: 10px;"><b>Williams, E.F.</b>, H.F. Martins, M.R. Fernandez-Ruiz, Z. Shen, S. Martin-Lopez, M. Gonzalez-Herraez, and Z. Zhan (2020) Ocean surface gravity wave interferometry with seafloor DAS. <i> Poster, AGU Fall Meeting, December 2020.</i></li>
 <li style="margin-bottom: 10px;">Shen, Z., Z. Li, Z. Zhan, X. Wang, <b>E.F. Williams</b>, and M. Karrenbach (2020) High-resolution foreshock evolution of the 2020 Mw5.8 Owens Lake earthquake illuminated with Olancha DAS array. <i> Poster, AGU Fall Meeting, December 2020.</i></li>
 <li style="margin-bottom: 10px;"><b>Williams, E.F.</b>, Z. Zhan, V. Lambert, and Y. Zhang (2019) Time-lapse shear-wave velocity profiling in urban pasadena with a fiber seismic network. <i> Talk, AGU Fall Meeting, December 2019.</i></li>
 <li style="margin-bottom: 10px;">Robo, E.T., C.R. Labedz, <b>E.F. Williams</b>, A. Klesh, M.P. Panning, A. Marandi, and Z. Zhan (2019) DAS on Ice: insights gained from deploying several kilometers of fiber optic cable on Taku Glacier, Alaska. <i> Poster, AGU Fall Meetings, December 2019.</i></li>
