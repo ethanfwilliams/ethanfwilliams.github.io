@@ -1,8 +1,12 @@
 #!/bin/sh
 
-out="index.html"
+outfile="index.html"
 
-echo > $out << END
+## Remove old file
+rm $outfile
+
+## Write header
+cat >> $outfile << END
 <html>
 <head>
 <title>Ethan Williams's Home Page</title>
@@ -16,7 +20,12 @@ echo > $out << END
 
 END
 
-echo >> $out <<END
+## Add sidebar
+cat sidebar.txt >> $outfile 
+
+
+## Write end
+cat >> $outfile <<END
 
 </body>
 </html>
