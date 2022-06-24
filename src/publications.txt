@@ -32,7 +32,12 @@
 <li><b>Williams, E.F.</b> and E.R. Martin (2016) Detection and removal of coherent anthropogenic noise from passive seismic data. <i>SEP Report</i> 165, pp. 153-164.</li>
 </ol>
 
-<h4>Talks and Posters:</h4>
+<h4>Invited Talks:</h4>
+<ol reversed>
+<li><b>Oct 2021</b> Applications of ocean-bottom DAS for offshore engineering and hazard analysis. <i>NHERI@UTexas Workshop on DAS for Infrastructure Engineering and Subsurface Imaging
+</ol>
+
+<h4>Conference Presentations:</h4>
 <ol reversed>
 <li style="margin-bottom: 10px;"><i>(Invited)</i> <b>Williams, E.F.</b>, T.H. Heaton, Z. Zhan, and V. Lambert (2022) Continuous seismic monitoring of a building over 20 years. <i> Talk, SSA Annual Meeting, April 2022.</i></li>
 <li style="margin-bottom: 10px;"><i>(Invited)</i> <b>Williams, E.F.</b> and Z. Zhan (2022) Understanding and exploiting ocean waves in DAS data. <i>Talk, SSA Annual Meeting, April 2022.</i></li>

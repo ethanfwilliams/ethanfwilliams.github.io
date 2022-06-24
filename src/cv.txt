@@ -23,6 +23,7 @@
 
 <h4>Field Experience:</h4>
 <ul>
+<li><b>2021</b> NSF OOI RCA community DAS experiment, Pacific City, OR</li>
 <li><b>2020 - present</b> Long Valley DAS deployment/maintenance, Mammoth Lakes, CA</li>
 <li><b>2019 - present</b> Ridgecrest EQ response DAS deployment/maintenance, Olancha and Ridgecrest, CA</li>
 <li><b>2019</b> HAGEN-DAS seismic experiment, Taku Glacier, Juneau Ice Field, AK</li>
@@ -39,7 +40,7 @@
 <li><b>2015</b> Leg 2: <i>R/V Yellowfin</i>, out of Two Harbors, CA</li>
 </ul>
 
-<h4>Teaching Experience: (<i>instructional hours</i>) </h4>
+<h4>Teaching and Outreach Experience: (<i>instructional hours</i>) </h4>
 <ul>
 <li><b>2021</b> Instructor, (De)coding Earthquakes, TRIO Upward Bound Math & Science <i>Pasadena City College</i> (<i>18</i>)</li>
 <li><b>2020</b> Teaching Assistant, Ge111a Geophysical Field Seminar, <i>Caltech</i>
