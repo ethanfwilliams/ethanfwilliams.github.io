@@ -27,7 +27,7 @@ echo -e "</td>\n" >> $outfile
 
 ## Add body
 echo "<td valign=top width=78%>" >> $outfile
-cat src/CV.txt >> $outfile
+cat src/cv.txt >> $outfile
 echo -e "</td>\n" >> $outfile
 
 ## Write end
