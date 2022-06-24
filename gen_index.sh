@@ -12,7 +12,7 @@ cat >> $outfile << END
 <title>Ethan Williams's Home Page</title>
 </head>
 
-<body>
+<body BGCOLOR="#d0ece7">
 <center><h1>Ethan Williams's Home Page</h1></center>
 
 <table width=80%>
