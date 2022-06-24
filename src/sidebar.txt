@@ -1,15 +1,3 @@
-<html>
-<head>
-<title>Ethan Williams's Home Page</title>
-</head>
-
-<body>
-<center><h1>Ethan Williams's Home Page</h1></center>
-
-<table width=80%>
-<tr>
-
-<td valign=top>
 <a href="index.html"><b>Home Page</b></a>
 <p>
 <a href="publications.html"><b>Publications</b></a>
@@ -42,13 +30,3 @@ Pasadena, CA 91125
 efwillia (at) caltech.edu
 <br>
 
-</td>
-
-<td valign=top width=78%>
-I am a Ph.D. candidate in geophysics at the Caltech Seismo Lab, working with Prof. Zhongwen Zhan. In my research, I apply fiber optic sensing to problems in engineering/environmental seismology and physical oceanography.
-
-This website is under construction.
-</td>
-
-</body>
-</html>
