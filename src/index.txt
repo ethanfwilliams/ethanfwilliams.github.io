@@ -1,4 +1,4 @@
-I am a Ph.D. candidate in geophysics at the Caltech Seismo Lab, working with Prof. Zhongwen Zhan. I apply fiber optic sensing to problems in engineering/environmental seismology and physical oceanography.
+<p>I am a Ph.D. candidate in geophysics at the Caltech Seismo Lab, working with Prof. Zhongwen Zhan. I apply fiber optic sensing to problems in engineering/environmental seismology and physical oceanography.</p>
 
 
-This website is under construction.
+<p>This website is under construction.</p>

@@ -21,7 +21,7 @@ cat >> $outfile << END
 END
 
 ## Add sidebar
-echo "<td valign=top>" >> $outfile
+echo "<td valign=top BGCOLOR="#ffffff">" >> $outfile
 cat src/sidebar.txt >> $outfile
 echo -e "</td>\n" >> $outfile
 
