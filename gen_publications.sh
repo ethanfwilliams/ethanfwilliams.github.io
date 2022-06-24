@@ -12,7 +12,7 @@ cat >> $outfile << END
 <title>Publications</title>
 </head>
 
-<body BGCOLOR="#d0ece7">
+<body BGCOLOR="#ffffff">
 <center><h1>Publications</h1></center>
 
 <table width=80%>
