@@ -1,4 +1,10 @@
 <p>I am a Ph.D. candidate in geophysics at the Caltech Seismo Lab, working with Prof. Zhongwen Zhan. I apply fiber optic sensing to problems in engineering/environmental seismology and physical oceanography.</p>
 
 
-<p>This website is under construction.</p>
+<p></p>
+
+<h4>News:</h4>
+<ul>
+<li>I am honored to have received a <a href="https://www.seismosoc.org/awards/student-awards/">2022 SSA Student Presentation Award</a> for my talk "Continuous seismic monitoring of a building over 20 years."</li>
+<li>Our paper on ocean surface gravity waves and DAS was recently published in JGR: Oceans. Read it <a href="https://doi.org/10.1029/2021JC018375">here</a>. In this paper, we look at ocean wave signals recorded in relatively shallow water (<150 m) on a subsea power cable in the Strait of Gibraltar, and demonstrate that the DAS strain is linearly related to pressure at the seafloor. Ocean waves share some statistical features in common with seismic and acoustic noise, so we tried applying ambient noise interferometry, and it worked! What can we do with this? Ocean surface gravity wave dispersion is sensitive to water depth and current speed. By separating the wave components propagating in different directions, we estimated the flow-induced doppler shift. The result: a matrix of current velocity measurements with resolution <1 hr in time and <100 m in distance.  </li>
+</ul>
