@@ -1,6 +1,10 @@
 <a href="index.html"><b>Home Page</b></a>
 <p>
 <a href="publications.html"><b>Publications</b></a>
+
+<p>
+<a href="publications.html"><img src="figs/publications.gif" alt="Publications" width=233></a></p>
+
 <p>
 <a href="cv.html"><b>CV</b></a>
 <p>
