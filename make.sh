@@ -1,6 +1,7 @@
 #!/bin/sh
 
 ./gen_index.sh
+./gen_research.sh
 ./gen_publications.sh
 ./gen_cv.sh
 
