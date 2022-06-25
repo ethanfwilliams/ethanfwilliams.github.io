@@ -1,7 +1,7 @@
-<p><a href="index.html"><img src="figs/homepage.gif" alt="Home page" height=45></a></p>
-<p><a href="research.html"><img src="figs/research.gif" alt="Research" height=45></a></p>
-<p><a href="publications.html"><img src="figs/publications.gif" alt="Publications" width=233></a></p>
-<p><a href="cv.html"><img src="figs/cv.gif" alt="CV" height=45></a></p>
+<p><a href="index.html"><img src="figs/homepage.gif" alt="Home page" height=35></a></p>
+<p><a href="research.html"><img src="figs/research.gif" alt="Research" height=25></a></p>
+<p><a href="publications.html"><img src="figs/publications.gif" alt="Publications" height=30></a></p>
+<p><a href="cv.html"><img src="figs/cv.gif" alt="CV" height=25></a></p>
 
 <p>
 <img src="figs/EFW_seismo_photo.jpg" width=233 height=200 vspace=10>
