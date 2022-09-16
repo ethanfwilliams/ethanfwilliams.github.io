@@ -16,9 +16,9 @@
 
 <h4>Expanded Abstracts:</h4>
 <ol reversed>
-<li style="margin-bottom: 10px;">Karrenbach, M., Z. Shen, Z. Li, S. Cole, <b>E.F. Williams</b>, A. Klesh, X. Wang, Z. Zhan, L. LaFlame, V. Yartsev, and V. Bogdanov (2020) Rapid deployment of distributed acoustic sensing systems to track earthquake activity. <i>SEG Technical Program Expanded Abstracts 2020</i>, p. 490-494. <a href="https://doi.org/10.1190/segam2020-3426905.1"><b>[link]</b></a></li>
-<li style="margin-bottom: 10px;">Fernandez-Ruiz, M.R., <b>E.F. Williams</b>, R. Magalhaes, R. Vanthillo, L. Costa, Z. Zhan,  S. Martin-Lopez, M. Gonzalez-Herraez, and H.F. Martins (2019) Teleseism monitoring using chirped-pulse &Phi;OTDR. <i>Seventh European Workshop on Optical Fibre Sensors</i> 1119921. <a href="https://doi.org/10.1117/12.2539966"><b>[link]</b></a></li>
-<li style="margin-bottom: 10px;">Martins, H.F., M.R. Fernandez-Ruiz, L. Costa, <b>E.F. Williams</b>, Z. Zhan, S. Martin-Lopez, and M. Gonzalez-Herraez (2019) Monitoring of remote seismic events in metropolitan area fibers using distributed acoustic sensing (DAS) and spatiotemporal signal processing. <i>Optical Fiber Communication Conference</i> M2J.1. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8696800"><b>[link]</b></a></li>
+<li style="margin-bottom: 10px;">Karrenbach, M., Z. Shen, Z. Li, S. Cole, <b>E.F. Williams</b>, A. Klesh, X. Wang, Z. Zhan, L. LaFlame, V. Yartsev, and V. Bogdanov (2020) <a href="https://doi.org/10.1190/segam2020-3426905.1">Rapid deployment of distributed acoustic sensing systems to track earthquake activity.</a> <i>SEG Technical Program Expanded Abstracts 2020</i>, p. 490-494.</li>
+<li style="margin-bottom: 10px;">Fernandez-Ruiz, M.R., <b>E.F. Williams</b>, R. Magalhaes, R. Vanthillo, L. Costa, Z. Zhan,  S. Martin-Lopez, M. Gonzalez-Herraez, and H.F. Martins (2019) <a href="https://doi.org/10.1117/12.2539966">Teleseism monitoring using chirped-pulse &Phi;OTDR.</a> <i>Seventh European Workshop on Optical Fibre Sensors</i> 1119921.</li>
+<li style="margin-bottom: 10px;">Martins, H.F., M.R. Fernandez-Ruiz, L. Costa, <b>E.F. Williams</b>, Z. Zhan, S. Martin-Lopez, and M. Gonzalez-Herraez (2019) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8696800">Monitoring of remote seismic events in metropolitan area fibers using distributed acoustic sensing (DAS) and spatiotemporal signal processing.</a> <i>Optical Fiber Communication Conference</i> M2J.1.</li>
 </ol>
 
 <h4>Review Papers:</h4>
