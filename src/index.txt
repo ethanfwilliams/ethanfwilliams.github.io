@@ -5,6 +5,6 @@
 
 <h4>News:</h4>
 <ul>
-<li><i>(2022-06-24)</i>&nbsp I am honored to have received a <a href="https://www.seismosoc.org/awards/student-awards/">2022 SSA Student Presentation Award</a> for my talk "Continuous seismic monitoring of a building over 20 years."</li>
-<li><i>(2022-05-15)</i>&nbsp Our paper on ocean surface gravity waves and DAS was recently published in JGR: Oceans. Read it <a href="https://doi.org/10.1029/2021JC018375">here</a>. In this paper, we look at ocean wave signals recorded in relatively shallow water (<150 m) on a subsea power cable in the Strait of Gibraltar, and demonstrate that the DAS strain is linearly related to pressure at the seafloor. Ocean waves share some statistical features in common with seismic and acoustic noise, so we tried applying ambient noise interferometry, and it worked! What can we do with this? Ocean surface gravity wave dispersion is sensitive to water depth and current speed. By separating the wave components propagating in different directions, we estimated the flow-induced doppler shift. The result: a matrix of current velocity measurements with resolution <1 hr in time and <100 m in distance.  </li>
+<li style="margin-bottom: 10px;><i>(2022-06-24)</i>&nbsp I received a <a href="https://www.seismosoc.org/awards/student-awards/">2022 SSA Student Presentation Award</a> for my talk "Continuous seismic monitoring of a building over 20 years."</li>
+<li style="margin-bottom: 10px;><i>(2022-05-15)</i>&nbsp Our paper on ocean surface gravity waves and DAS was recently published in JGR: Oceans. <a href="https://doi.org/10.1029/2021JC018375">Read it here.</a> </li>
 </ul>
