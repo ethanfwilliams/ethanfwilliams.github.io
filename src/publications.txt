@@ -35,7 +35,8 @@
 
 <h4>Invited Talks:</h4>
 <ol reversed>
-<li><b>Oct 2021</b> "Applications of ocean-bottom DAS for offshore engineering and hazard analysis." <i>NHERI@UTexas Workshop on DAS for Infrastructure Engineering and Subsurface Imaging</i></li>
+<li><b>09-2022</b> "Large-N and large-T seismology with structural vibrations." <i>USGS Earthquake Science Center seminar</i></li>
+<li><b>10-2021</b> "Applications of ocean-bottom DAS for offshore engineering and hazard analysis." <i>NHERI@UTexas Workshop on DAS for Infrastructure Engineering and Subsurface Imaging</i></li>
 </ol>
 
 <h4>Conference Presentations:</h4>
