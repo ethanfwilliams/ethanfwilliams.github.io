@@ -2,6 +2,7 @@
 
 <h4>Journal Articles:</h4>
 <ol reversed>
+	<li style="margin-bottom: 10px;"><b>Williams, E.F.</b>, T.H. Heaton, Z. Zhan, and V.R. Lambert (2022) <a href="">Variability in the natural frequencies of a nine-story concrete building from seconds to decades.</a> <i>The Seismic Record</i>, in press.</li>
 	<li style="margin-bottom: 10px;">Biondi, E., X. Wang, <b>E.F. Williams</b>, and Z. Zhan (2022) <a href="https://doi.org/10.1785/0220220169">Geolocalization of large-scale DAS channels using a GPS-tracked moving vehicle.</a> <i>Seismological Research Letters</i>, in press.</li>
 	<li style="margin-bottom: 10px;"><b>Williams, E.F.</b>, Z. Zhan, H.F. Martins, M.R. Fernandez-Ruiz, S. Martin-Lopez, M. Gonzalez-Herraez, and J. Callies (2022) <a href="https://doi.org/10.1029/2021JC018375">Surface gravity wave interferometry and ocean current monitoring with ocean-bottom DAS.</a> <i>Journal of Geophysical Research: Oceans</i>, 127 (5), e2021JC018375.</li>
 	<li style="margin-bottom: 10px;">Yang, Y., J.W. Atterholt, Z. Shen, J.B. Muir, <b>E.F. Williams</b>, and Z. Zhan (2022) <a href="https://doi.org/10.1029/2021GL096503">Sub-kilometer correlation between near-surface structure and ground motion measured with distributed acoustic sensing.</a> <i>Geophysical Research Letters</i>, 49, e2021GL096503.</li>
