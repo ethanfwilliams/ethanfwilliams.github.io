@@ -1,20 +1,19 @@
-<h4>Fiber-optic and ocean-bottom seismology</h4>
+<h4>Environmental and Ocean-bottom Seismology</h4>
 
-Distributed acoustic sensing (DAS) permits repurposing of unused (or "dark") fiber optic cables as dense networks of linear seismic strainmeters, with sampling rates >1 kHz and spatial resolution <10 m. Over the past few years, I have worked with DAS datasets from urban fiber networks to longhaul submarine telecommunications cables, investigating the potential of DAS in next-generation seismic networks. 
-<p>
-In <a href="https://doi.org/10.1038/s41467-019-13262-7">a study published in <i>Nature Communications</i> in 2019</a>, I collaborated with a photonics research group at the University of Alcala to analyze one of the first ocean-bottom DAS datasets, from a power transmission cable in the North Sea. By estimating the spatial variations in the frequency-directional characteristics of seismic and ocean waves, we demonstrated that nonlinear interaction of opposing ocean wave groups produces seismic waves in-situ, consistent with the classic Longuet-Higgins theory of double-frequency microseism generation. This dataset also captured a M8 deep-focus earthquake from the Fiji region, which was overprinted by strong, shallow-water (<40 m) oceanographic signals and not visible in the raw data. Using spatio-temporal filtering to extract the earthquake's principal phases, we showed that ocean-bottom DAS arrays could be used for global seismic monitoring even in challenging environments where conventional ocean-bottom seismometers struggle. 
-<p>
-In <a href="https://doi.org/10.1190/tle40080576.1">a study published in <i>The Leading Edge</i> in 2021</a>, we revisited the North Sea dataset and focused on the value of passive ocean-bottom DAS surveys for offshore engineering and hazard analysis. Applying seismic interferometry to only one hour of data, we obtained a shallow shear-wave velocity model along the cable path, demonstrating a non-invasive alternative for site characterization in coastal regions where cable networks are already present. We also isolated spurious arrivals arising from structural vibrations of individual wind turbines nearby, suggesting potential for remote operational and structural health monitoring. 
-<p>
-I am also working with the Pasadena Array, a 37.5-km fiber-optic loop in the city of Pasadena, CA, instrumented with DAS since 2018. Combining active and passive source datasets, we have found that apparent fine-scale lateral heterogeneity (10-100 m) varies by an order of magnitude along the cable. In the presence of discrete material heterogeneities, the seismic strain field is discontinuous (unlike particle motion), meaning that conventional methods for estimating subsurface velocities from phase-sensitive wavefield parameters are prone to scale-dependent bias when applied to DAS data. In this work, which is ongoing, I seek to quantify the effect of heterogeneity on DAS measurements and develop a scale-independent procedure for estimating surface wave velocity from strain.
+<ul>
+<li><a href="seismology1.html">Recording earthquakes and ambient noise with ocean-bottom DAS</a></li>
+<li><a href="seismology2.html">Scholte wave inversion and noise source localization</a></li>
+</ul>
 
+<h4>Physical Oceanography</h4>
 
-<h4>Fiber-optic oceanography</h4>
+<ul>
+<li><a href="oceanography1.html">Spatio-temporal monitoring of coastal currents with ocean surface gravity wave interferometry</a></li>
+<li><a href="oceanography2.html">Fiber-optic observations of internal waves and tides</a></li>
+</ul>
 
-Coming soon...
+<h4>Engineering Seismology</h4>
 
-
-
-<h4>Engineering seismology</h4>
-
-I am also interested in engineering and urban seismology. In particular, environmental phenomena like rainfall can have a non-negligible impact on both site and structural response, which has generally not been quantified. I recently examined a 20-year continuous record of structural vibrations at CI.MIK, a permanent strong-motion station installed on the 9th floor of a reinforced concrete building in Pasadena, CA, in 2001. On short time-scales the building exhibits complex nonlinear elasticity: (1) during strong shaking the apparent stiffness of the soil-structure system decreases in proportion to the peak acceleration, and (2) following shaking the apparent stiffness recovers over the scale of minutes with a log-linear time dependence. Over longer time-scales, the building appears to be gradually healing, with a >10% increase in apparent structural stiffness over the past 20 years. The building also exhibits >10% variability in stiffness on diurnal to seasonal scales in response to temperature changes, wind, rainfall, and soil moisture. While the short-time behavior is similar to trends observed in laboratory rock physics experiments and the environmental sensitivities can largely be explained in terms of poroelastic and thermoelastic effects, the long-term healing trend is a mystery. If such dramatic time-dependent behavior is common in reinforced concrete structures, then current standards for, e.g., post-earthquake damage assessment and design-stage fragility analysis are grossly inadequate and significantly underestimate uncertainty. 
+<ul>
+<li><a href="engineering1.html">Multi-scale temporal variability in the apparent stiffness of a nine-story reinforced concrete building</a></li>
+</ul>
