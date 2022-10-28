@@ -2,7 +2,7 @@
 
 <ul>
 <li><a href="seismology1.html">Recording earthquakes and ambient noise with ocean-bottom DAS</a></li>
-<li><a href="seismology2.html">Scholte wave inversion and noise source localization</a></li>
+<li><a href="seismology2.html">Scholte wave inversion and source localization</a></li>
 </ul>
 
 <h4>Physical Oceanography</h4>
@@ -15,5 +15,5 @@
 <h4>Engineering Seismology</h4>
 
 <ul>
-<li><a href="engineering1.html">Multi-scale temporal variability in the apparent stiffness of a nine-story reinforced concrete building</a></li>
+<li><a href="engineering1.html">Multi-scale variability in the apparent stiffness of a nine-story reinforced concrete building</a></li>
 </ul>
