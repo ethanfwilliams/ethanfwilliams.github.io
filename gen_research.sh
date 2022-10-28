@@ -36,3 +36,24 @@ cat >> $outfile <<END
 </html>
 END
 
+
+## Write subsidiary pages
+seismology1="seismology1.html"
+seismology2="seismology2.html"
+oceanography1="oceanography1.html"
+oceanography2="oceanography2.html"
+engineering1="engineering1.html"
+
+cat >> $seismology1 << END
+<html>
+<body>
+END
+echo "<td valign=top BGCOLOR="#ffffff">" >> $seismology1
+cat src/seismology1.txt >> $seismology1
+echo -e "</td>\n" >> $seismology1
+cat >> $seismology1 << END
+<a href="research.html">Back to Research...</a>
+</body>
+</html>
+END
+
