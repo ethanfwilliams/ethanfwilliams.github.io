@@ -3,17 +3,17 @@
 In <a href="https://doi.org/10.1190/tle40080576.1">a study published in <i>The Leading Edge</i> in 2021</a>, we revisited the North Sea dataset and focused on the value of passive ocean-bottom DAS surveys for offshore engineering and hazard analysis. Applying seismic interferometry to only one hour of data, we obtained a shallow shear-wave velocity model along the cable path, demonstrating a non-invasive alternative for site characterization in coastal regions where cable networks are already present. We also isolated spurious arrivals arising from structural vibrations of individual wind turbines nearby, suggesting potential for remote operational and structural health monitoring.
 
 <p>
-<img src="figs/s2_f1.png" width=300 vspace=10 hspace=100>
+<img src="figs/s2_f1.jpg" width=300 vspace=10 hspace=100>
 <br>
 Location of the DAS array on a power cable relative to several wind developments offshore Belgium.
 
 <p>
-<img src="figs/s2_f1.png" width=300 vspace=10 hspace=100>
+<img src="figs/s2_f1.jpg" width=300 vspace=10 hspace=100>
 <br>
 Shear-velocity model along the cable (distance from coast) derived by multi-modal inversion of Scholte wave dispersion from ambient noise cross-correlations. (A,B) Power-law model parameters and associated uncertainty. (C) Shear-wave velocity with depth, offset by bathymetry. (D,E) Common engineering parameters VS30 and Z1.0 calculated from the model, with uncertainty propagation. 
 
 <p>
-<img src="figs/s2_f3.png" width=300 vspace=10 hspace=100>
+<img src="figs/s2_f3.jpg" width=300 vspace=10 hspace=100>
 <br>
 Individual wind turbines identified as strong sources of high-frequency Scholte waves using cross-correlation migration. 
 
