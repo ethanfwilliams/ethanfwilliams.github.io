@@ -52,6 +52,7 @@ echo "<td valign=top BGCOLOR="#ffffff">" >> $seismology1
 cat src/seismology1.txt >> $seismology1
 echo -e "</td>\n" >> $seismology1
 cat >> $seismology1 << END
+<p>
 <a href="research.html">Back to Research...</a>
 </body>
 </html>
@@ -65,6 +66,7 @@ echo "<td valign=top BGCOLOR="#ffffff">" >> $seismology2
 cat src/seismology2.txt >> $seismology2
 echo -e "</td>\n" >> $seismology2
 cat >> $seismology2 << END
+<p>
 <a href="research.html">Back to Research...</a>
 </body>
 </html>
@@ -78,6 +80,7 @@ echo "<td valign=top BGCOLOR="#ffffff">" >> $oceanography1
 cat src/oceanography1.txt >> $oceanography1
 echo -e "</td>\n" >> $oceanography1
 cat >> $oceanography1 << END
+<p>
 <a href="research.html">Back to Research...</a>
 </body>
 </html>
@@ -91,6 +94,7 @@ echo "<td valign=top BGCOLOR="#ffffff">" >> $oceanography2
 cat src/oceanography2.txt >> $oceanography2
 echo -e "</td>\n" >> $oceanography2
 cat >> $oceanography2 << END
+<p>
 <a href="research.html">Back to Research...</a>
 </body>
 </html>
@@ -104,6 +108,7 @@ echo "<td valign=top BGCOLOR="#ffffff">" >> $engineering1
 cat src/engineering1.txt >> $engineering1
 echo -e "</td>\n" >> $engineering1
 cat >> $engineering1 << END
+<p>
 <a href="research.html">Back to Research...</a>
 </body>
 </html>
