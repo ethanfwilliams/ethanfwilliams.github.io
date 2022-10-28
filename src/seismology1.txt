@@ -5,9 +5,9 @@ Distributed acoustic sensing (DAS) permits repurposing of unused (or "dark") fib
 <p>
 In <a href="https://doi.org/10.1038/s41467-019-13262-7">a study published in <i>Nature Communications</i> in 2019</a>, I collaborated with a photonics research group at the University of Alcala to analyze one of the first ocean-bottom DAS datasets, from a power transmission cable in the North Sea. By estimating the spatial variations in the frequency-directional characteristics of seismic and ocean waves, we demonstrated that nonlinear interaction of opposing ocean wave groups produces seismic waves in-situ, consistent with the classic Longuet-Higgins theory of double-frequency microseism generation. This dataset also captured a M8 deep-focus earthquake from the Fiji region, which was overprinted by strong, shallow-water (<40 m) oceanographic signals and not visible in the raw data. Using spatio-temporal filtering to extract the earthquake's principal phases, we showed that ocean-bottom DAS arrays could be used for global seismic monitoring even in challenging environments where conventional ocean-bottom seismometers struggle.
 <p>
-<img src="figs/s1_f1.png" width=233 vspace=10 style="transform:rotate(90deg);">
+<img src="figs/s1_f1.png" width=300 vspace=10 style="transform:rotate(90deg);" align="middle">
 <p>
-<img src="figs/s1_f2.png" width=233 vspace=10 style="transform:rotate(90deg);">
+<img src="figs/s1_f2.png" width=400 vspace=10 style="transform:rotate(90deg);" align="left">
 
 
 
