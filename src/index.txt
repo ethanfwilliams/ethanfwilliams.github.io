@@ -5,6 +5,7 @@
 
 <h4>News:</h4>
 <ul>
+<li style="margin-bottom: 10px;"><i>(2022-11-09)</i>&nbsp Our paper tracking the temporal variability of a building's natural frequencies in response to earthquake and environmental forcing across a 20-year period was recently published in The Seismic Record. <a href="https://doi.org/10.1785/0320220032">Read it here.</a></li>
 <li style="margin-bottom: 10px;"><i>(2022-09-14)</i>&nbsp I recently gave a seminar for the USGS Earthquake Science Center. You can <a href="https://earthquake.usgs.gov/contactus/menlo/seminars/1394">listen to the recording here.</a></li> 
 <li style="margin-bottom: 10px;"><i>(2022-06-24)</i>&nbsp I received a <a href="https://www.seismosoc.org/awards/student-awards/">2022 SSA Student Presentation Award</a> for my talk "Continuous seismic monitoring of a building over 20 years."</li>
 <li style="margin-bottom: 10px;"><i>(2022-05-15)</i>&nbsp Our paper on ocean surface gravity waves and DAS was recently published in JGR: Oceans. <a href="https://doi.org/10.1029/2021JC018375">Read it here.</a> </li>
