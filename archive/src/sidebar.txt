@@ -1,0 +1,39 @@
+<!--
+<p><a href="index.html"><img src="figs/homepage3.gif" alt="Home page" height=25></a></p>
+<p><a href="research.html"><img src="figs/research.gif" alt="Research" height=20></a></p>
+<p><a href="publications.html"><img src="figs/publications.gif" alt="Publications" height=20></a></p>
+<p><a href="cv.html"><img src="figs/cv.gif" alt="CV" height=20></a></p>
+-->
+
+<p><a href="index.html">Home Page</a></p>
+<p><a href="research.html">Research</a></p>
+<p><a href="publications.html">Publications</a></p>
+<p><a href="cv.html">CV</a></p>
+
+<p>
+<img src="figs/EFW_seismo_photo.jpg" width=233 height=200 vspace=10>
+<br>
+<h4>Ethan F. Williams</h4>
+Ph.D. Candidate in Geophysics
+<br>
+Seismological Laboratory
+<br>
+California Institute of Technology
+<br>
+<h5>Office:</h5>
+&nbsp &nbsp
+358 South Mudd
+<br>
+<h5>Mail:</h5>
+&nbsp &nbsp
+M/S 252-21
+<br> &nbsp &nbsp
+1200 E. California Blvd.
+<br> &nbsp &nbsp
+Pasadena, CA 91125
+<br>
+<h5>Email:</h5>
+&nbsp &nbsp
+efwillia (at) caltech.edu
+<br>
+
